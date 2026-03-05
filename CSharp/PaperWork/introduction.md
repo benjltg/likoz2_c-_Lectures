@@ -242,7 +242,7 @@ There are also many [operators](https://learn.microsoft.com/en-us/dotnet/csharp/
   - `a > b` greater than
   - `a >= b` greater than or equal
 - [Bitwise and shift operators](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operatorsbitwise-and-shift-operators)
-  - `~a` bitwise complement (flips bits)
+  - `~a` bitwise complement (flips bits) (1's complement)
   - `a << b` left shift
   - `a >> b` right shift
   - `a >>> b` unsigned right shift
@@ -985,4 +985,5 @@ Most common Runtime errors:
 - Draw your ideas on a paper and prepare the solution there. Coding is 60% figuring out how to do things. 38% debugging and resolving issues and 2% writing a code.
 - Do things correctly. If you can start doing things correctly today, don't put them aside for "later" with something like "I will do it like this now and rewrite it correctly later.", you will never get back to it.
 - Code a lot, the more you code the more you will understand it.
+
 - Explore what certain classes can do.
